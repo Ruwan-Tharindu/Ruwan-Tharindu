@@ -1,14 +1,14 @@
-<p align='center'>
-  <img src='https://capsule-render.vercel.app/api?type=wave&height=200&color=0:58a6ff,100:3fb950&text=Hi,%20I am Ruwan!&animation=fadeIn&fontColor=ffffff&fontAlign=38&fontAlignY=55'/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:58a6ff,100:3fb950&text=Hi,%20I'm%20Ruwan!&animation=blink&fontColor=ffffff&fontAlign=30&fontAlignY=28&section=header&reversal=false&descAlign=38&descAlignY=47"/>
 </p>
 
-<h1 align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+Developer;Building+Real-World+Solutions;Open+Source+Enthusiast' alt='Typing SVG' />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+Developer;Building+Real-World+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align='center'>
-  <img src='https://komarev.com/ghpvc/?username=Ruwan-Tharindu&color=58a6ff&style=for-the-badge'/>
-  <img src='https://img.shields.io/github/followers/Ruwan-Tharindu?style=for-the-badge&color=3fb950&labelColor=0d1117'/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruwan-Tharindu&color=58a6ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Ruwan-Tharindu?style=for-the-badge&color=3fb950&labelColor=0d1117" alt="followers"/>
 </p>
 
 ---
