@@ -20,7 +20,7 @@
 - 🔭 Currently working on a **New Web Project** 🚧 *(Coming soon...)*
 - 🚌 Completed **[QuickBus](https://github.com/Ruwan-Tharindu/Quickbus-app)** — Bus ticket booking system
 - 🏨 Completed **[TravelEase](https://github.com/Ruwan-Tharindu/TRAVELEASE)** — Hotel booking for Sri Lanka
-- ⚙️ Also building **[IT Lifecycle Manager](https://github.com/Ruwan-Tharindu/ITLifecycleManager) -  IT asset and lifecycle management system built with TypeScript
+- ⚙️ Also building **[IT Lifecycle Manager](https://github.com/Ruwan-Tharindu/it-lifecycle-manager)** — IT asset and lifecycle management system built with TypeScript
 - 🌱 Currently learning **TypeScript**, **React** & **Node.js**
 - 💡 Building solutions for the **Sri Lankan market**
 - 📫 Reach me: **tharindubandara943@gmail.com**
