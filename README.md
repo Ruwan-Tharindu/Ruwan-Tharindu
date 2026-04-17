@@ -67,8 +67,10 @@
   <tr>
     <td width="50%">
       <h3>⚙️ IT Lifecycle Manager</h3>
-      <p>Private project — IT asset and lifecycle management system built with TypeScript.</p>
-      <img src="https://img.shields.io/badge/View%20Project-ff7b72?style=for-the-badge&logo=github&logoColor=white"/>
+      <p>Enterprise IT-remarketing and sustainability platform for the German corporate sector.</p>
+      <a href="https://github.com/Ruwan-Tharindu/it-lifecycle-manager">
+        <img src="https://img.shields.io/badge/View%20Project-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%">
@@ -78,7 +80,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
