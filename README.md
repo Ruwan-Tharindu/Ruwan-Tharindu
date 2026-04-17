@@ -46,33 +46,37 @@
 
 <table>
   <tr>
-    <td width='50%'>
-      <h3>💺 Seat Journey</h3>
-      <p>Smart seat booking platform — my most active project 🔥</p>
-      <a href='https://github.com/Ruwan-Tharindu/seat-journey'>
-        <img src='https://img.shields.io/badge/View%20Project-58a6ff?style=for-the-badge&logo=github&logoColor=white'/>
+    <td width="50%">
+      <h3>🚌 QuickBus App</h3>
+      <p>Interactive bus seat booking platform designed to make travel planning easier for Sri Lankan passengers.</p>
+      <a href="https://github.com/Ruwan-Tharindu/QuickBus-App">
+        <img src="https://img.shields.io/badge/View%20Project-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
-    <td width='50%'>
-      <h3>🚌 QuickBus</h3>
-      <p>Bus ticket booking web application for easy travel</p>
-      <a href='https://github.com/Ruwan-Tharindu/Quickbus-app'>
-        <img src='https://img.shields.io/badge/View%20Project-3fb950?style=for-the-badge&logo=github&logoColor=white'/>
+    <td width="50%">
+      <h3>🏨 TravelEase TMS</h3>
+      <p>Comprehensive Travel Management System built for the Sri Lankan hospitality market.</p>
+      <a href="https://github.com/Ruwan-Tharindu/TRAVELEASE-TMS">
+        <img src="https://img.shields.io/badge/View%20Project-3fb950?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width='50%'>
-      <h3>🏨 TravelEase</h3>
-      <p>Comprehensive hotel booking system for Sri Lankan market</p>
-      <a href='https://github.com/Ruwan-Tharindu/TRAVELEASE'>
-        <img src='https://img.shields.io/badge/View%20Project-f0883e?style=for-the-badge&logo=github&logoColor=white'/>
-      </a>
+    <td width="50%">
+      <h3>⚙️ IT Lifecycle Manager</h3>
+      <p>Private project — IT asset and lifecycle management system built with TypeScript.</p>
+      <img src="https://img.shields.io/badge/Private%20Repo-ff7b72?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
-    <td width='50%'>
-      <h3>🚧 New Web Project</h3>
-      <p>Something exciting coming soon... stay tuned! ✨</p>
-      <img src='https://img.shields.io/badge/Coming%20Soon-ff7b72?style=for-the-badge&logoColor=white'/>
+    <td width="50%">
+      <h3>🌐 Portfolio Site</h3>
+      <p>Personal portfolio website hosted on GitHub Pages showcasing my projects and skills.</p>
+      <a href="https://ruwan-tharindu.github.io">
+        <img src="https://img.shields.io/badge/Visit%20Site-f0883e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     </td>
   </tr>
 </table>
