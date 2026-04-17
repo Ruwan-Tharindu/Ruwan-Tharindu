@@ -68,7 +68,7 @@
     <td width="50%">
       <h3>⚙️ IT Lifecycle Manager</h3>
       <p>Private project — IT asset and lifecycle management system built with TypeScript.</p>
-      <img src="https://img.shields.io/badge/Private%20Repo-ff7b72?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/View%20Project-ff7b72?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%">
