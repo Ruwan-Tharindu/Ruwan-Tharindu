@@ -71,15 +71,13 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>🌐 Portfolio Site</h3>
-      <p>Personal portfolio website hosted on GitHub Pages showcasing my projects and skills.</p>
-      <a href="https://ruwan-tharindu.github.io">
-        <img src="https://img.shields.io/badge/Visit%20Site-f0883e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <h3>🚧 New Web Project</h3>
+      <p>Something exciting coming soon... stay tuned! ✨</p>
+      <img src="https://img.shields.io/badge/Coming%20Soon-ff7b72?style=for-the-badge&logoColor=white"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
